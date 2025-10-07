@@ -15,6 +15,8 @@
 ## About My Work
 As a solo dev, I handle end-to-end development—from architecture to deployment. My projects emphasize rapid iteration, AI-assisted velocity (10x gains), and enterprise-grade quality (95+ Lighthouse scores, WCAG 2.1 AA).
 
+🧩 Note: Some earlier commits were made under an unlinked local Git email, so they may not appear in the public contribution graph. All projects here are fully developed and maintained by me, end-to-end.
+
 📫 Reach out: Willischavez2022@gmail.com | [https://www.linkedin.com/in/william-chavez-1197ba16a/] | [www.maxpulse-complete.vercel.app]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KitchAIv1&show_icons=true&theme=radical)
