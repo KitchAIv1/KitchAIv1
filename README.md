@@ -25,5 +25,3 @@ As a solo dev, I handle end-to-end development—from architecture to deployment
 📫 Reach out: Willischavez2022@gmail.com | [https://www.linkedin.com/in/william-chavez-1197ba16a/] | [www.maxpulse-complete.vercel.app]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KitchAIv1&show_icons=true&theme=radical)
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=KitchAIv1&show_icons=true&theme=radical)
-
