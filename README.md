@@ -14,10 +14,6 @@ I build human-centered AI systems that turn data and automation into useful, acc
 - **[KitchAI](https://github.com/KitchAIv1/version1)**: AI-powered food social app with GPT-4o pantry scanning, recipe generation, and TikTok-style feeds. Built solo with React Native and Supabase.
 - **[MAXPULSE](https://github.com/KitchAIv1/maxpulse-complete)**: AI-driven wellness SaaS with real-time tracking, health metrics forecasting, and recommendation engines. Features 31-table Postgres schema and 73% cache hit rates.
 
-## Featured Projects
-**KitchAI** – AI-powered food social app with GPT-4o pantry scanning, recipe generation, and TikTok-style feeds. Built solo with React Native and Supabase.  
-**MAXPULSE** – AI-driven wellness SaaS with real-time tracking, health metrics forecasting, and recommendation engines. Features 31-table Postgres schema and 73% cache hit rates.
-
 ## Now
 Building **MaxPulse App** (AI wellness platform for lifestyle analytics) and **EMSIS** (AI-powered school management system with real-time attendance and analytics).
 
